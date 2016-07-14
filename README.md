@@ -8,5 +8,5 @@ Follow his course on [Redux](https://www.udemy.com/react-redux/)?
 ```
 	> React, Redux, 
 	> ES6, Bootstrap
-	> axios, [JSON Placeoholder API](http://jsonplaceholder.typicode.com/)?
+	> axios, [JSON Placeoholder API](http://jsonplaceholder.typicode.com/)
 ```
