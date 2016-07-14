@@ -10,8 +10,8 @@ class UserList extends Component {
 	  return (
 	  	<div className='card card-block'>
 	  	  <h4 className='card-title'>{user.name}</h4>
-	  	  <p className='card-text'>Savvy </p>
-	  	  <a className='btn btn-primary'>Email</a>
+	  	  <p className='card-text'>{user.company.name}</p>
+	  	  <a className='btn btn-primary'>{user.website}</a>
 	  	</div>
 	  )
 	}
